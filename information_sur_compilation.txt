@@ -1,0 +1,5 @@
+Mon programme tests les trois premiers exemples de l'énoncé, vous pouvez changer les valeurs du tableau A[] et B[],
+mais il faut faire attention à la fonction principale il faut changer n : nombre des minutes.
+
+// Mon programme compile simplement avec : gcc -Wall Projet_Algo.c -o Projet_Algo 
+// Pour l'exécution : ./Projet_Algo
